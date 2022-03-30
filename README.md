@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Jay Carman. I'm a cloud software developer working for IBM Power Systems.
+
+My website, https://jay.carman.us.com, has my contact information if you'd like to get in touch.
+
 <!--
 **jaywcarman/jaywcarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
