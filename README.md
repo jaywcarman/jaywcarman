@@ -4,6 +4,8 @@ My name is Jay Carman. I'm a cloud software developer working for IBM Power Syst
 
 My website, https://jay.carman.us.com, has my contact information if you'd like to get in touch.
 
+I also run a personal Mastodon instance, <a rel="me" href="https://carman.social/@jay">https://carman.social/@jay</a>
+
 <!--
 **jaywcarman/jaywcarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
